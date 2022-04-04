@@ -1,0 +1,24 @@
+{
+  "name": “HOS”,
+  "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+    ],
+    "timestamp": "2020-07-19T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x769Be7890828D0c3211CB9bC1F1E66cE8D6B3Cf1",
+      "name": “HOS”,
+      "symbol": "DEFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
